@@ -28,6 +28,10 @@ body * {
     font-family: 'Manrope', serif;
 }
 
+#trust{
+    padding-top: 20px;
+}
+
 #entry-banner {
     height: 100%;
     position: relative;
