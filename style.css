@@ -109,7 +109,7 @@ body > header,
 body > footer {
     background-color: var(--black-color);
 }
-.contact{
+.trust{
     display: flex;
     justify-content: center;
     
