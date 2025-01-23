@@ -14,8 +14,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+
 nav{
-    width: 90%;
+    width: 75%;
     display: flex;
     justify-content: space-around;
 }
@@ -197,6 +198,13 @@ body > main {
 }
 
 @media (width < 1024px) {
+    
+        nav{
+        width: 90%;
+        display: flex;
+        justify-content: space-around;
+    }
+
     .entry-banner__content h1 {
         font-size: 32px;
     }
