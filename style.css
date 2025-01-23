@@ -109,11 +109,12 @@ body > header,
 body > footer {
     background-color: var(--black-color);
 }
-h1{
+.contact{
     display: flex;
     justify-content: center;
     
 }
+
 .trust-block {
     display: flex;
     flex-direction: row;
