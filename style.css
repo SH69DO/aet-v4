@@ -109,7 +109,7 @@ body > header,
 body > footer {
     background-color: var(--black-color);
 }
-.trust{
+.trust_h1{
     display: flex;
     justify-content: center;
     
