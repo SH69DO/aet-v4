@@ -180,6 +180,7 @@ body > main {
 }
 
 .awards-block {
+    padding: 50px;
     gap: 20px;
     display: flex;
     text-align: center;
