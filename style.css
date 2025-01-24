@@ -146,6 +146,10 @@ body > footer {
     height: 50px;
 }
 
+.trust_p{
+    width: 265px;
+}
+
 body > main {
     color: var(--black-color);
 }
