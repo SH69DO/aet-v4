@@ -196,8 +196,7 @@ body > main {
     text-align: center;
     display: block;
     font-weight: 900;
-    font-size: 42px;
-    width: 110px;
+    font-size: 38px;
 }
 
 @media (width < 1024px) {
