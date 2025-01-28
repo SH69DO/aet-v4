@@ -189,7 +189,7 @@ body > main {
 }
 
 .awards-block__el {
-    width: 110px;
+    width: 100%;
 }
 
 .awards-block__el span {
@@ -197,6 +197,7 @@ body > main {
     display: block;
     font-weight: 900;
     font-size: 42px;
+    width: 110px;
 }
 
 @media (width < 1024px) {
